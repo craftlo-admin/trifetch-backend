@@ -101,7 +101,8 @@ class DataController:
                                 time_in_queue=self.calculate_time_in_queue(
                                     event_data.get("EventOccuredTime", "")
                                 ),
-                                technician=self.technician_name
+                                technician=self.technician_name,
+                                is_rejected=event_data.get("IsRejected", "0")
                             )
                             
                             patient_events.append(patient_event)
@@ -167,12 +168,10 @@ class DataController:
                     success=False,
                     message="all_events.json not found. Run scripts/build_event_index.py first.",
                     patient_id=patient_ir_id,
-                    category="",
-                    patient_folder="",
-                    event_name="",
                     event_time="",
-                    ecg_data=[],
-                    total_data_points=0
+                    category_predicted=None,
+                    is_rejected="0",
+                    ecg_data=[]
                 )
             
             with open(all_events_file, 'r', encoding='utf-8') as f:
@@ -190,12 +189,10 @@ class DataController:
                     success=False,
                     message=f"Patient with ID {patient_ir_id} not found",
                     patient_id=patient_ir_id,
-                    category="",
-                    patient_folder="",
-                    event_name="",
                     event_time="",
-                    ecg_data=[],
-                    total_data_points=0
+                    category_predicted=None,
+                    is_rejected="0",
+                    ecg_data=[]
                 )
             
             # Get patient folder path
@@ -208,12 +205,10 @@ class DataController:
                     success=False,
                     message=f"Patient folder not found: {patient_path}",
                     patient_id=patient_ir_id,
-                    category=category,
-                    patient_folder=patient_folder,
-                    event_name=patient_event.get("Event_Name", ""),
                     event_time=patient_event.get("EventOccuredTime", ""),
-                    ecg_data=[],
-                    total_data_points=0
+                    category_predicted=None,
+                    is_rejected=patient_event.get("IsRejected", "0"),
+                    ecg_data=[]
                 )
             
             # Find all ECG data files (ECGData_*.txt)
@@ -224,16 +219,15 @@ class DataController:
                     success=False,
                     message=f"No ECG data files found in {patient_path}",
                     patient_id=patient_ir_id,
-                    category=category,
-                    patient_folder=patient_folder,
-                    event_name=patient_event.get("Event_Name", ""),
                     event_time=patient_event.get("EventOccuredTime", ""),
-                    ecg_data=[],
-                    total_data_points=0
+                    category_predicted=None,
+                    is_rejected=patient_event.get("IsRejected", "0"),
+                    ecg_data=[]
                 )
             
             # Read and combine all ECG files
             ecg_data = []
+            ecg_data_raw = []  # For ML classification (list of [val1, val2] strings)
             for ecg_file in ecg_files:
                 try:
                     with open(ecg_file, 'r', encoding='utf-8') as f:
@@ -246,6 +240,7 @@ class DataController:
                                         val1 = int(parts[0].strip())
                                         val2 = int(parts[1].strip())
                                         ecg_data.append(ECGDataPoint(value1=val1, value2=val2))
+                                        ecg_data_raw.append([str(val1), str(val2)])
                                     except ValueError:
                                         # Skip invalid lines
                                         continue
@@ -253,16 +248,45 @@ class DataController:
                     print(f"Error reading {ecg_file}: {e}")
                     continue
             
+            # Extract is_rejected from event JSON file
+            is_rejected = patient_event.get("IsRejected", "0")
+            
+            # Perform ML classification
+            category_predicted = None
+            event_start_second = None
+            try:
+                from ml.classifier import get_classifier
+                from ml.event_detection import get_event_detector
+                
+                classifier = get_classifier()
+                if classifier.is_loaded():
+                    prediction = classifier.predict(ecg_data_raw)
+                    if prediction['success']:
+                        category_predicted = prediction['predicted_class']
+                        
+                        # Detect exact event start time
+                        detector = get_event_detector()
+                        event_detection = detector.detect_event_start(ecg_data_raw, category_predicted)
+                        
+                        if event_detection['detected']:
+                            event_start_second = event_detection['event_start_second']
+                            print(f"Event detected at {event_start_second}s using: {event_detection['detection_method']}")
+                        else:
+                            event_start_second = event_detection['event_start_second']
+                            print(f"Event start approximated at {event_start_second}s: {event_detection['detection_method']}")
+            except Exception as e:
+                print(f"Classification/Detection error: {e}")
+                # Continue without classification if model not available
+            
             return ECGDataResponse(
                 success=True,
                 message="ECG data retrieved successfully",
                 patient_id=patient_ir_id,
-                category=category,
-                patient_folder=patient_folder,
-                event_name=patient_event.get("Event_Name", ""),
                 event_time=patient_event.get("EventOccuredTime", ""),
-                ecg_data=ecg_data,
-                total_data_points=len(ecg_data)
+                category_predicted=category_predicted,
+                event_start_second=event_start_second,
+                is_rejected=is_rejected,
+                ecg_data=ecg_data
             )
         
         except Exception as e:
@@ -270,12 +294,10 @@ class DataController:
                 success=False,
                 message=f"Error fetching ECG data: {str(e)}",
                 patient_id=patient_ir_id,
-                category="",
-                patient_folder="",
-                event_name="",
                 event_time="",
-                ecg_data=[],
-                total_data_points=0
+                category_predicted=None,
+                is_rejected="0",
+                ecg_data=[]
             )
 
 

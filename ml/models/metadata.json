@@ -1,0 +1,34 @@
+{
+  "feature_names": [
+    "num_beats",
+    "signal_mean",
+    "signal_std",
+    "signal_range",
+    "mean_hr",
+    "min_hr",
+    "max_hr",
+    "std_hr",
+    "rr_mean",
+    "rr_std",
+    "rr_min",
+    "rr_max",
+    "rr_range",
+    "rmssd",
+    "sdsd",
+    "nn50",
+    "pnn50",
+    "cv",
+    "irregularity_score",
+    "irregularity_max"
+  ],
+  "label_map": {
+    "AF_Approved": "AFIB",
+    "PAUSE_Approved": "PAUSE",
+    "VTACH_Approved": "VTACH"
+  },
+  "reverse_label_map": {
+    "AFIB": "AF_Approved",
+    "PAUSE": "PAUSE_Approved",
+    "VTACH": "VTACH_Approved"
+  }
+}

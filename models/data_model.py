@@ -15,6 +15,7 @@ class PatientEventData(BaseModel):
     event_time: str = Field(..., description="Event occurred time")
     time_in_queue: str = Field(..., description="Time elapsed since event occurred")
     technician: str = Field(..., description="Technician name")
+    is_rejected: str = Field(..., description="Whether the event is rejected (0 or 1)")
     
     class Config:
         json_schema_extra = {
@@ -24,7 +25,8 @@ class PatientEventData(BaseModel):
                 "event": "AF",
                 "event_time": "2025-11-08 14:09:19.884",
                 "time_in_queue": "9 days, 2 hours, 15 minutes",
-                "technician": "System Admin"
+                "technician": "System Admin",
+                "is_rejected": "0"
             }
         }
 
@@ -68,17 +70,23 @@ class ECGDataPoint(BaseModel):
     value2: int = Field(..., description="Second value")
 
 
+class ClassificationResult(BaseModel):
+    """ML Classification result"""
+    predicted_class: Optional[str] = Field(None, description="Predicted arrhythmia type (AFIB, VTACH, PAUSE)")
+    confidence: float = Field(0.0, description="Prediction confidence (0-1)")
+    probabilities: dict = Field(default_factory=dict, description="Probability for each class")
+
+
 class ECGDataResponse(BaseModel):
     """Response model for ECG data endpoint"""
     success: bool = Field(..., description="Whether the request was successful")
     message: str = Field(..., description="Response message")
     patient_id: str = Field(..., description="Patient IR ID")
-    category: str = Field(..., description="Event category")
-    patient_folder: str = Field(..., description="Patient folder name")
-    event_name: str = Field(..., description="Event name")
     event_time: str = Field(..., description="Event occurred time")
+    category_predicted: Optional[str] = Field(None, description="ML predicted category (AFIB, VTACH, PAUSE)")
+    event_start_second: Optional[float] = Field(None, description="Exact second when arrhythmia event started in ECG trace")
+    is_rejected: str = Field(..., description="Whether the event is rejected (0 or 1)")
     ecg_data: List[ECGDataPoint] = Field(..., description="Combined ECG data from all files")
-    total_data_points: int = Field(..., description="Total number of ECG data points")
     
     class Config:
         json_schema_extra = {
@@ -86,14 +94,13 @@ class ECGDataResponse(BaseModel):
                 "success": True,
                 "message": "ECG data retrieved successfully",
                 "patient_id": "75D3DBDB-36C5-451B-9D57-3720224D20FF",
-                "category": "AF_Approved",
-                "patient_folder": "74003321",
-                "event_name": "AF",
                 "event_time": "2025-11-08 14:09:19.884",
+                "category_predicted": "AFIB",
+                "event_start_second": 12.45,
+                "is_rejected": "0",
                 "ecg_data": [
                     {"value1": 1447, "value2": 1459},
                     {"value1": 1478, "value2": 1520}
-                ],
-                "total_data_points": 18000
+                ]
             }
         }
