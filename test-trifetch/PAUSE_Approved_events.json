@@ -1,0 +1,229 @@
+[
+  {
+    "category": "PAUSE_Approved",
+    "patient_folder": "74025250",
+    "event_file": "PAUSE_Approved\\74025250\\event_74025250.json",
+    "Patient_IR_ID": "6558420B-2324-4041-9746-EEB25165820A",
+    "EventOccuredTime": "2025-11-08 12:56:21.582",
+    "Event_Name": "PAUSE",
+    "IsRejected": "0",
+    "EventIndex": 4316
+  },
+  {
+    "category": "PAUSE_Approved",
+    "patient_folder": "74126359",
+    "event_file": "PAUSE_Approved\\74126359\\event_74126359.json",
+    "Patient_IR_ID": "9A619A3D-39C3-476F-B2ED-41A0BAEF2BF6",
+    "EventOccuredTime": "2025-11-08 08:27:17.756",
+    "Event_Name": "PAUSE",
+    "IsRejected": "0",
+    "EventIndex": 3551
+  },
+  {
+    "category": "PAUSE_Approved",
+    "patient_folder": "74239105",
+    "event_file": "PAUSE_Approved\\74239105\\event_74239105.json",
+    "Patient_IR_ID": "20C3D91D-2C7D-4C42-8754-52BF70E52099",
+    "EventOccuredTime": "2025-11-08 13:32:22.450",
+    "Event_Name": "PAUSE",
+    "IsRejected": "0",
+    "EventIndex": 4490
+  },
+  {
+    "category": "PAUSE_Approved",
+    "patient_folder": "74278804",
+    "event_file": "PAUSE_Approved\\74278804\\event_74278804.json",
+    "Patient_IR_ID": "58EDA676-8B5D-4E53-9282-1E9F78DE9AB6",
+    "EventOccuredTime": "2025-11-08 10:12:21.073",
+    "Event_Name": "PAUSE",
+    "IsRejected": "0",
+    "EventIndex": 4214
+  },
+  {
+    "category": "PAUSE_Approved",
+    "patient_folder": "74281481",
+    "event_file": "PAUSE_Approved\\74281481\\event_74281481.json",
+    "Patient_IR_ID": "6C7E08F8-2ED2-4ACF-BB23-A439525C6510",
+    "EventOccuredTime": "2025-11-08 18:38:22.620",
+    "Event_Name": "PAUSE",
+    "IsRejected": "0"
+  },
+  {
+    "category": "PAUSE_Approved",
+    "patient_folder": "74321426",
+    "event_file": "PAUSE_Approved\\74321426\\event_74321426.json",
+    "Patient_IR_ID": "51A56746-6CFA-4602-924F-3ED020E75C29",
+    "EventOccuredTime": "2025-11-08 12:03:15.422",
+    "Event_Name": "PAUSE",
+    "IsRejected": "0"
+  },
+  {
+    "category": "PAUSE_Approved",
+    "patient_folder": "74351080",
+    "event_file": "PAUSE_Approved\\74351080\\event_74351080.json",
+    "Patient_IR_ID": "FDCA3D0C-70C8-47A4-AEEC-AB8DEB2E2742",
+    "EventOccuredTime": "2025-11-08 20:45:18.442",
+    "Event_Name": "PAUSE",
+    "IsRejected": "0",
+    "EventIndex": 3688
+  },
+  {
+    "category": "PAUSE_Approved",
+    "patient_folder": "74422783",
+    "event_file": "PAUSE_Approved\\74422783\\event_74422783.json",
+    "Patient_IR_ID": "FF8F798F-1E83-471A-8EE8-F13018023EBA",
+    "EventOccuredTime": "2025-11-08 20:05:18.282",
+    "Event_Name": "PAUSE",
+    "IsRejected": "0"
+  },
+  {
+    "category": "PAUSE_Approved",
+    "patient_folder": "74464350",
+    "event_file": "PAUSE_Approved\\74464350\\event_74464350.json",
+    "Patient_IR_ID": "F9FB4A41-F21C-4915-84C1-FA12DBAFBF61",
+    "EventOccuredTime": "2025-11-08 19:38:12.936",
+    "Event_Name": "PAUSE",
+    "IsRejected": "0",
+    "EventIndex": 2587
+  },
+  {
+    "category": "PAUSE_Approved",
+    "patient_folder": "74482819",
+    "event_file": "PAUSE_Approved\\74482819\\event_74482819.json",
+    "Patient_IR_ID": "389418F9-D590-45D9-B2CD-2CF001FB86DE",
+    "EventOccuredTime": "2025-11-08 22:15:22.453",
+    "Event_Name": "PAUSE",
+    "IsRejected": "0",
+    "EventIndex": 4490
+  },
+  {
+    "category": "PAUSE_Approved",
+    "patient_folder": "74543593",
+    "event_file": "PAUSE_Approved\\74543593\\event_74543593.json",
+    "Patient_IR_ID": "169F25B2-5DFB-4206-A62B-A67F4721EF2A",
+    "EventOccuredTime": "2025-11-08 11:39:23.356",
+    "Event_Name": "PAUSE",
+    "IsRejected": "0",
+    "EventIndex": 4671
+  },
+  {
+    "category": "PAUSE_Approved",
+    "patient_folder": "74584770",
+    "event_file": "PAUSE_Approved\\74584770\\event_74584770.json",
+    "Patient_IR_ID": "C2B55CE5-D624-4A5D-8977-6E1C5881271F",
+    "EventOccuredTime": "2025-11-08 20:25:16.775",
+    "Event_Name": "PAUSE",
+    "IsRejected": "0",
+    "EventIndex": 3355
+  },
+  {
+    "category": "PAUSE_Approved",
+    "patient_folder": "74586758",
+    "event_file": "PAUSE_Approved\\74586758\\event_74586758.json",
+    "Patient_IR_ID": "98EF9E5A-C0C3-4F9F-9563-201D10FE37EF",
+    "EventOccuredTime": "2025-11-08 21:50:16.897",
+    "Event_Name": "PAUSE",
+    "IsRejected": "0",
+    "EventIndex": 3379
+  },
+  {
+    "category": "PAUSE_Approved",
+    "patient_folder": "74605868",
+    "event_file": "PAUSE_Approved\\74605868\\event_74605868.json",
+    "Patient_IR_ID": "17912C25-CEDA-484C-8ABC-A3BDA596645D",
+    "EventOccuredTime": "2025-11-08 20:43:24.218",
+    "Event_Name": "PAUSE",
+    "IsRejected": "0",
+    "EventIndex": 4843
+  },
+  {
+    "category": "PAUSE_Approved",
+    "patient_folder": "74642953",
+    "event_file": "PAUSE_Approved\\74642953\\event_74642953.json",
+    "Patient_IR_ID": "A5CFBA44-6698-41D6-9F74-60DF80617EB0",
+    "EventOccuredTime": "2025-11-08 21:22:14.383",
+    "Event_Name": "PAUSE",
+    "IsRejected": "0",
+    "EventIndex": 2876
+  },
+  {
+    "category": "PAUSE_Approved",
+    "patient_folder": "74677544",
+    "event_file": "PAUSE_Approved\\74677544\\event_74677544.json",
+    "Patient_IR_ID": "448CCA2F-A039-4829-B0EA-B31412813D29",
+    "EventOccuredTime": "2025-11-08 22:30:17.359",
+    "Event_Name": "PAUSE",
+    "IsRejected": "0",
+    "EventIndex": 3471
+  },
+  {
+    "category": "PAUSE_Approved",
+    "patient_folder": "74693432",
+    "event_file": "PAUSE_Approved\\74693432\\event_74693432.json",
+    "Patient_IR_ID": "76B5FA99-3641-4500-8594-87DB08A51517",
+    "EventOccuredTime": "2025-11-08 12:10:19.145",
+    "Event_Name": "PAUSE",
+    "IsRejected": "0",
+    "EventIndex": 3829
+  },
+  {
+    "category": "PAUSE_Approved",
+    "patient_folder": "74762823",
+    "event_file": "PAUSE_Approved\\74762823\\event_74762823.json",
+    "Patient_IR_ID": "8F0BE790-65D4-4EE6-993A-8CB964692FF2",
+    "EventOccuredTime": "2025-11-08 09:45:22.195",
+    "Event_Name": "PAUSE",
+    "IsRejected": "0",
+    "EventIndex": 4439
+  },
+  {
+    "category": "PAUSE_Approved",
+    "patient_folder": "74790042",
+    "event_file": "PAUSE_Approved\\74790042\\event_74790042.json",
+    "Patient_IR_ID": "B6BB8CF8-2725-45FB-B127-732926006B23",
+    "EventOccuredTime": "2025-11-08 20:24:24.581",
+    "Event_Name": "PAUSE",
+    "IsRejected": "0",
+    "EventIndex": 4916
+  },
+  {
+    "category": "PAUSE_Approved",
+    "patient_folder": "74791754",
+    "event_file": "PAUSE_Approved\\74791754\\event_74791754.json",
+    "Patient_IR_ID": "B842BAF0-BF34-4D10-AB78-8F646FBA3593",
+    "EventOccuredTime": "2025-11-08 08:45:12.905",
+    "Event_Name": "PAUSE",
+    "IsRejected": "0",
+    "EventIndex": 2581
+  },
+  {
+    "category": "PAUSE_Approved",
+    "patient_folder": "74860889",
+    "event_file": "PAUSE_Approved\\74860889\\event_74860889.json",
+    "Patient_IR_ID": "E475BE62-24FF-4E38-ADEC-BB6BA09C53D9",
+    "EventOccuredTime": "2025-11-08 08:49:11.036",
+    "Event_Name": "PAUSE",
+    "IsRejected": "0",
+    "EventIndex": 2207
+  },
+  {
+    "category": "PAUSE_Approved",
+    "patient_folder": "74894508",
+    "event_file": "PAUSE_Approved\\74894508\\event_74894508.json",
+    "Patient_IR_ID": "E599BBBF-9861-42B4-AC0A-8182FAC55AEA",
+    "EventOccuredTime": "2025-11-08 22:53:10.324",
+    "Event_Name": "PAUSE",
+    "IsRejected": "0",
+    "EventIndex": 2064
+  },
+  {
+    "category": "PAUSE_Approved",
+    "patient_folder": "74995849",
+    "event_file": "PAUSE_Approved\\74995849\\event_74995849.json",
+    "Patient_IR_ID": "DFD837D0-3741-4117-93B3-574A39437736",
+    "EventOccuredTime": "2025-11-08 08:13:14.283",
+    "Event_Name": "PAUSE",
+    "IsRejected": "0",
+    "EventIndex": 2856
+  }
+]

@@ -1,0 +1,1364 @@
+[
+  {
+    "category": "AF_Approved",
+    "patient_folder": "74003321",
+    "event_file": "AF_Approved\\74003321\\event_74003321.json",
+    "Patient_IR_ID": "75D3DBDB-36C5-451B-9D57-3720224D20FF",
+    "EventOccuredTime": "2025-11-08 14:09:19.884",
+    "Event_Name": "AF",
+    "IsRejected": "0",
+    "EventIndex": 3976
+  },
+  {
+    "category": "AF_Approved",
+    "patient_folder": "74071903",
+    "event_file": "AF_Approved\\74071903\\event_74071903.json",
+    "Patient_IR_ID": "9A1A1BAB-1689-4167-B49F-88E79231F951",
+    "EventOccuredTime": "2025-11-08 14:11:25.808",
+    "Event_Name": "AF",
+    "IsRejected": "0"
+  },
+  {
+    "category": "AF_Approved",
+    "patient_folder": "74112048",
+    "event_file": "AF_Approved\\74112048\\event_74112048.json",
+    "Patient_IR_ID": "04CD6A92-0FAF-4E4B-88D7-35F386F242AC",
+    "EventOccuredTime": "2025-11-08 11:14:14.766",
+    "Event_Name": "AF",
+    "IsRejected": "0",
+    "EventIndex": 2953
+  },
+  {
+    "category": "AF_Approved",
+    "patient_folder": "74129532",
+    "event_file": "AF_Approved\\74129532\\event_74129532.json",
+    "Patient_IR_ID": "EC8175A5-2C2A-4DC9-ABDC-9CE869CAF93F",
+    "EventOccuredTime": "2025-11-08 11:57:14.506",
+    "Event_Name": "AF",
+    "IsRejected": "0"
+  },
+  {
+    "category": "AF_Approved",
+    "patient_folder": "74147722",
+    "event_file": "AF_Approved\\74147722\\event_74147722.json",
+    "Patient_IR_ID": "163A89DF-6F14-4164-AFCA-A6344F88A6C3",
+    "EventOccuredTime": "2025-11-08 15:50:12.361",
+    "Event_Name": "AF",
+    "IsRejected": "0",
+    "EventIndex": 2472
+  },
+  {
+    "category": "AF_Approved",
+    "patient_folder": "74160477",
+    "event_file": "AF_Approved\\74160477\\event_74160477.json",
+    "Patient_IR_ID": "6BC6B5D0-CCCF-48D1-8FDC-5719C4F0B5A9",
+    "EventOccuredTime": "2025-11-08 18:58:10.973",
+    "Event_Name": "AF",
+    "IsRejected": "0",
+    "EventIndex": 2194
+  },
+  {
+    "category": "AF_Approved",
+    "patient_folder": "74186291",
+    "event_file": "AF_Approved\\74186291\\event_74186291.json",
+    "Patient_IR_ID": "CC143B6B-6BBC-4363-AE6F-DEC28EE78AAB",
+    "EventOccuredTime": "2025-11-08 15:23:20.191",
+    "Event_Name": "AF",
+    "IsRejected": "0",
+    "EventIndex": 4038
+  },
+  {
+    "category": "AF_Approved",
+    "patient_folder": "74294372",
+    "event_file": "AF_Approved\\74294372\\event_74294372.json",
+    "Patient_IR_ID": "122CEFF1-DE47-4609-ADD4-6F04470384CB",
+    "EventOccuredTime": "2025-11-08 10:03:16.350",
+    "Event_Name": "AF",
+    "IsRejected": "0",
+    "EventIndex": 3270
+  },
+  {
+    "category": "AF_Approved",
+    "patient_folder": "74346736",
+    "event_file": "AF_Approved\\74346736\\event_74346736.json",
+    "Patient_IR_ID": "2333652A-E821-4537-B078-6F73E1555F7B",
+    "EventOccuredTime": "2025-11-08 16:39:13.298",
+    "Event_Name": "AF",
+    "IsRejected": "0"
+  },
+  {
+    "category": "AF_Approved",
+    "patient_folder": "74350486",
+    "event_file": "AF_Approved\\74350486\\event_74350486.json",
+    "Patient_IR_ID": "6D890F9E-3740-4DFC-AABF-95FB818B6BCE",
+    "EventOccuredTime": "2025-11-08 12:47:16.739",
+    "Event_Name": "AF",
+    "IsRejected": "0",
+    "EventIndex": 3347
+  },
+  {
+    "category": "AF_Approved",
+    "patient_folder": "74374655",
+    "event_file": "AF_Approved\\74374655\\event_74374655.json",
+    "Patient_IR_ID": "5FCDCB72-69FC-40A0-81EC-E39DBA4C9906",
+    "EventOccuredTime": "2025-11-08 09:59:18.423",
+    "Event_Name": "AF",
+    "IsRejected": "0",
+    "EventIndex": 3684
+  },
+  {
+    "category": "AF_Approved",
+    "patient_folder": "74387245",
+    "event_file": "AF_Approved\\74387245\\event_74387245.json",
+    "Patient_IR_ID": "C3AED861-F573-4E36-BF42-63C201979BAD",
+    "EventOccuredTime": "2025-11-08 12:22:18.048",
+    "Event_Name": "AF",
+    "IsRejected": "0",
+    "EventIndex": 3609
+  },
+  {
+    "category": "AF_Approved",
+    "patient_folder": "74419868",
+    "event_file": "AF_Approved\\74419868\\event_74419868.json",
+    "Patient_IR_ID": "37085909-1424-4732-BE1E-6C7B7485F043",
+    "EventOccuredTime": "2025-11-08 09:33:19.392",
+    "Event_Name": "AF",
+    "IsRejected": "0",
+    "EventIndex": 3878
+  },
+  {
+    "category": "AF_Approved",
+    "patient_folder": "74431025",
+    "event_file": "AF_Approved\\74431025\\event_74431025.json",
+    "Patient_IR_ID": "3A1BD27C-57D2-4A97-833B-F1D5A2A466B5",
+    "EventOccuredTime": "2025-11-08 15:55:18.065",
+    "Event_Name": "AF",
+    "IsRejected": "0",
+    "EventIndex": 3613
+  },
+  {
+    "category": "AF_Approved",
+    "patient_folder": "74444267",
+    "event_file": "AF_Approved\\74444267\\event_74444267.json",
+    "Patient_IR_ID": "38812212-9CB3-4CF3-9BB0-F8B5CBDE5703",
+    "EventOccuredTime": "2025-11-08 09:15:15.787",
+    "Event_Name": "AF",
+    "IsRejected": "0",
+    "EventIndex": 3157
+  },
+  {
+    "category": "AF_Approved",
+    "patient_folder": "74548986",
+    "event_file": "AF_Approved\\74548986\\event_74548986.json",
+    "Patient_IR_ID": "4543C315-5D45-45BD-92E8-57A18D4D71CF",
+    "EventOccuredTime": "2025-11-08 20:46:17.402",
+    "Event_Name": "AF",
+    "IsRejected": "0",
+    "EventIndex": 3480
+  },
+  {
+    "category": "AF_Approved",
+    "patient_folder": "74606756",
+    "event_file": "AF_Approved\\74606756\\event_74606756.json",
+    "Patient_IR_ID": "CC7084AD-C9D2-4DB2-8A9D-7BBFC6F9F38E",
+    "EventOccuredTime": "2025-11-08 15:42:21.203",
+    "Event_Name": "AF",
+    "IsRejected": "0",
+    "EventIndex": 4240
+  },
+  {
+    "category": "AF_Approved",
+    "patient_folder": "74610554",
+    "event_file": "AF_Approved\\74610554\\event_74610554.json",
+    "Patient_IR_ID": "4F144FDE-CED2-48AD-95AA-559356D09B3F",
+    "EventOccuredTime": "2025-11-08 09:35:16.657",
+    "Event_Name": "AF",
+    "IsRejected": "0",
+    "EventIndex": 3331
+  },
+  {
+    "category": "AF_Approved",
+    "patient_folder": "74622085",
+    "event_file": "AF_Approved\\74622085\\event_74622085.json",
+    "Patient_IR_ID": "CEA0E972-709C-45D6-B8B9-99416101E181",
+    "EventOccuredTime": "2025-11-08 15:45:17.613",
+    "Event_Name": "AF",
+    "IsRejected": "0",
+    "EventIndex": 3522
+  },
+  {
+    "category": "AF_Approved",
+    "patient_folder": "74845671",
+    "event_file": "AF_Approved\\74845671\\event_74845671.json",
+    "Patient_IR_ID": "A2680DE6-045F-44F8-A47A-0E5399F088AD",
+    "EventOccuredTime": "2025-11-08 17:01:24.380",
+    "Event_Name": "AF",
+    "IsRejected": "0",
+    "EventIndex": 4876
+  },
+  {
+    "category": "AF_Approved",
+    "patient_folder": "74860291",
+    "event_file": "AF_Approved\\74860291\\event_74860291.json",
+    "Patient_IR_ID": "FA1F4CDF-5ECD-4185-86E6-F4168014BACC",
+    "EventOccuredTime": "2025-11-08 15:40:21.317",
+    "Event_Name": "AF",
+    "IsRejected": "0",
+    "EventIndex": 4263
+  },
+  {
+    "category": "AF_Approved",
+    "patient_folder": "74870104",
+    "event_file": "AF_Approved\\74870104\\event_74870104.json",
+    "Patient_IR_ID": "4A2DB7B9-6140-438C-9634-87506F48F289",
+    "EventOccuredTime": "2025-11-08 22:49:15.382",
+    "Event_Name": "AF",
+    "IsRejected": "0",
+    "EventIndex": 3076
+  },
+  {
+    "category": "AF_Approved",
+    "patient_folder": "74873874",
+    "event_file": "AF_Approved\\74873874\\event_74873874.json",
+    "Patient_IR_ID": "A9167A2F-B739-4E50-9C2A-95EC3EA7DD86",
+    "EventOccuredTime": "2025-11-08 15:01:21.081",
+    "Event_Name": "AF",
+    "IsRejected": "0",
+    "EventIndex": 4216
+  },
+  {
+    "category": "AF_Rejected",
+    "patient_folder": "74039241",
+    "event_file": "AF_Rejected\\74039241\\event_74039241.json",
+    "Patient_IR_ID": "CEFBA012-F4C3-4DFA-B8FA-5B688CFE29A7",
+    "EventOccuredTime": "2025-11-08 12:42:13.655",
+    "Event_Name": "AF",
+    "IsRejected": "1"
+  },
+  {
+    "category": "AF_Rejected",
+    "patient_folder": "74057733",
+    "event_file": "AF_Rejected\\74057733\\event_74057733.json",
+    "Patient_IR_ID": "1EBA6A88-4122-4A66-A546-316C0AAA0FB7",
+    "EventOccuredTime": "2025-11-08 19:29:15.030",
+    "Event_Name": "AF",
+    "IsRejected": "1"
+  },
+  {
+    "category": "AF_Rejected",
+    "patient_folder": "74166318",
+    "event_file": "AF_Rejected\\74166318\\event_74166318.json",
+    "Patient_IR_ID": "40C51BE9-4C9C-4B29-8D3F-603D7750930C",
+    "EventOccuredTime": "2025-11-08 13:13:16.350",
+    "Event_Name": "AF",
+    "IsRejected": "1",
+    "EventIndex": 3270
+  },
+  {
+    "category": "AF_Rejected",
+    "patient_folder": "74246889",
+    "event_file": "AF_Rejected\\74246889\\event_74246889.json",
+    "Patient_IR_ID": "B2E19A90-57A7-43A9-B327-04513F2D59D7",
+    "EventOccuredTime": "2025-11-08 20:30:12.955",
+    "Event_Name": "AF",
+    "IsRejected": "1",
+    "EventIndex": 2591
+  },
+  {
+    "category": "AF_Rejected",
+    "patient_folder": "74254359",
+    "event_file": "AF_Rejected\\74254359\\event_74254359.json",
+    "Patient_IR_ID": "4770F1FD-8790-40E2-9EE1-94C3E2416253",
+    "EventOccuredTime": "2025-11-08 10:59:10.208",
+    "Event_Name": "AF",
+    "IsRejected": "1",
+    "EventIndex": 2041
+  },
+  {
+    "category": "AF_Rejected",
+    "patient_folder": "74268917",
+    "event_file": "AF_Rejected\\74268917\\event_74268917.json",
+    "Patient_IR_ID": "D5186E90-1F09-4995-82EF-C9F847F466CB",
+    "EventOccuredTime": "2025-11-08 12:58:23.465",
+    "Event_Name": "AF",
+    "IsRejected": "1"
+  },
+  {
+    "category": "AF_Rejected",
+    "patient_folder": "74398619",
+    "event_file": "AF_Rejected\\74398619\\event_74398619.json",
+    "Patient_IR_ID": "05F5C2AB-ADF0-4AC3-B4F1-4F887B2F139A",
+    "EventOccuredTime": "2025-11-08 15:27:16.728",
+    "Event_Name": "AF",
+    "IsRejected": "1",
+    "EventIndex": 3345
+  },
+  {
+    "category": "AF_Rejected",
+    "patient_folder": "74450437",
+    "event_file": "AF_Rejected\\74450437\\event_74450437.json",
+    "Patient_IR_ID": "71CDD749-74DF-41B1-8438-047E28447504",
+    "EventOccuredTime": "2025-11-08 11:27:14.966",
+    "Event_Name": "AF",
+    "IsRejected": "1",
+    "EventIndex": 2993
+  },
+  {
+    "category": "AF_Rejected",
+    "patient_folder": "74450530",
+    "event_file": "AF_Rejected\\74450530\\event_74450530.json",
+    "Patient_IR_ID": "C5E6C971-DAA8-4823-AFDB-E934F62C1442",
+    "EventOccuredTime": "2025-11-08 19:06:11.280",
+    "Event_Name": "AF",
+    "IsRejected": "1",
+    "EventIndex": 2256
+  },
+  {
+    "category": "AF_Rejected",
+    "patient_folder": "74518367",
+    "event_file": "AF_Rejected\\74518367\\event_74518367.json",
+    "Patient_IR_ID": "B8944CC0-AF72-4B64-B997-991E49C4B622",
+    "EventOccuredTime": "2025-11-08 08:25:12.564",
+    "Event_Name": "AF",
+    "IsRejected": "1",
+    "EventIndex": 2512
+  },
+  {
+    "category": "AF_Rejected",
+    "patient_folder": "74567092",
+    "event_file": "AF_Rejected\\74567092\\event_74567092.json",
+    "Patient_IR_ID": "DC24BB48-E5D9-4045-8D1B-D6778BBF8B8D",
+    "EventOccuredTime": "2025-11-08 13:41:20.051",
+    "Event_Name": "AF",
+    "IsRejected": "1",
+    "EventIndex": 4010
+  },
+  {
+    "category": "AF_Rejected",
+    "patient_folder": "74616885",
+    "event_file": "AF_Rejected\\74616885\\event_74616885.json",
+    "Patient_IR_ID": "D96E373F-89CF-4EF0-8B5A-2ABA1F84A825",
+    "EventOccuredTime": "2025-11-08 17:26:22.779",
+    "Event_Name": "AF",
+    "IsRejected": "1",
+    "EventIndex": 4555
+  },
+  {
+    "category": "AF_Rejected",
+    "patient_folder": "74632659",
+    "event_file": "AF_Rejected\\74632659\\event_74632659.json",
+    "Patient_IR_ID": "AF77B309-F9A3-4CBD-A8D2-767437FE7B71",
+    "EventOccuredTime": "2025-11-08 21:24:18.967",
+    "Event_Name": "AF",
+    "IsRejected": "1",
+    "EventIndex": 3793
+  },
+  {
+    "category": "AF_Rejected",
+    "patient_folder": "74635996",
+    "event_file": "AF_Rejected\\74635996\\event_74635996.json",
+    "Patient_IR_ID": "0F44443C-2AB2-4FBF-948C-4E6354F8B0C6",
+    "EventOccuredTime": "2025-11-08 08:56:15.443",
+    "Event_Name": "AF",
+    "IsRejected": "1",
+    "EventIndex": 3088
+  },
+  {
+    "category": "AF_Rejected",
+    "patient_folder": "74664419",
+    "event_file": "AF_Rejected\\74664419\\event_74664419.json",
+    "Patient_IR_ID": "D00240CF-E512-4E4D-95A0-4979BD809463",
+    "EventOccuredTime": "2025-11-08 21:31:10.073",
+    "Event_Name": "AF",
+    "IsRejected": "1",
+    "EventIndex": 2014
+  },
+  {
+    "category": "AF_Rejected",
+    "patient_folder": "74700197",
+    "event_file": "AF_Rejected\\74700197\\event_74700197.json",
+    "Patient_IR_ID": "3FB1BBE0-2934-4D62-B6E3-9E7FB8CF0C8D",
+    "EventOccuredTime": "2025-11-08 15:41:11.464",
+    "Event_Name": "AF",
+    "IsRejected": "1",
+    "EventIndex": 2292
+  },
+  {
+    "category": "AF_Rejected",
+    "patient_folder": "74744837",
+    "event_file": "AF_Rejected\\74744837\\event_74744837.json",
+    "Patient_IR_ID": "498B86AE-3700-4AEB-B008-0AFA814C904E",
+    "EventOccuredTime": "2025-11-08 15:31:13.014",
+    "Event_Name": "AF",
+    "IsRejected": "1",
+    "EventIndex": 2602
+  },
+  {
+    "category": "AF_Rejected",
+    "patient_folder": "74784044",
+    "event_file": "AF_Rejected\\74784044\\event_74784044.json",
+    "Patient_IR_ID": "F42FBA17-0C17-4E91-95D2-5F0820FC073C",
+    "EventOccuredTime": "2025-11-08 15:35:23.829",
+    "Event_Name": "AF",
+    "IsRejected": "1",
+    "EventIndex": 4765
+  },
+  {
+    "category": "AF_Rejected",
+    "patient_folder": "74802810",
+    "event_file": "AF_Rejected\\74802810\\event_74802810.json",
+    "Patient_IR_ID": "A7BDFB3A-BCAF-4E84-B71B-280177CE432C",
+    "EventOccuredTime": "2025-11-08 09:25:15.943",
+    "Event_Name": "AF",
+    "IsRejected": "1",
+    "EventIndex": 3188
+  },
+  {
+    "category": "AF_Rejected",
+    "patient_folder": "74827073",
+    "event_file": "AF_Rejected\\74827073\\event_74827073.json",
+    "Patient_IR_ID": "E3184A71-3E51-4743-A7E9-B33F34313083",
+    "EventOccuredTime": "2025-11-08 20:52:23.092",
+    "Event_Name": "AF",
+    "IsRejected": "1",
+    "EventIndex": 4618
+  },
+  {
+    "category": "AF_Rejected",
+    "patient_folder": "74851440",
+    "event_file": "AF_Rejected\\74851440\\event_74851440.json",
+    "Patient_IR_ID": "6EBECC77-13C7-49BC-A7BF-45242DF73D9B",
+    "EventOccuredTime": "2025-11-08 16:14:12.466",
+    "Event_Name": "AF",
+    "IsRejected": "1",
+    "EventIndex": 2493
+  },
+  {
+    "category": "AF_Rejected",
+    "patient_folder": "74892626",
+    "event_file": "AF_Rejected\\74892626\\event_74892626.json",
+    "Patient_IR_ID": "FEEFFA53-4C68-40A0-8B7A-6E63696ACD82",
+    "EventOccuredTime": "2025-11-08 16:55:11.002",
+    "Event_Name": "AF",
+    "IsRejected": "1",
+    "EventIndex": 2200
+  },
+  {
+    "category": "AF_Rejected",
+    "patient_folder": "74924813",
+    "event_file": "AF_Rejected\\74924813\\event_74924813.json",
+    "Patient_IR_ID": "274212B6-A36D-45FB-BDE3-225A0CC8F0E4",
+    "EventOccuredTime": "2025-11-08 22:02:16.240",
+    "Event_Name": "AF",
+    "IsRejected": "1",
+    "EventIndex": 3248
+  },
+  {
+    "category": "PAUSE_Approved",
+    "patient_folder": "74025250",
+    "event_file": "PAUSE_Approved\\74025250\\event_74025250.json",
+    "Patient_IR_ID": "6558420B-2324-4041-9746-EEB25165820A",
+    "EventOccuredTime": "2025-11-08 12:56:21.582",
+    "Event_Name": "PAUSE",
+    "IsRejected": "0",
+    "EventIndex": 4316
+  },
+  {
+    "category": "PAUSE_Approved",
+    "patient_folder": "74126359",
+    "event_file": "PAUSE_Approved\\74126359\\event_74126359.json",
+    "Patient_IR_ID": "9A619A3D-39C3-476F-B2ED-41A0BAEF2BF6",
+    "EventOccuredTime": "2025-11-08 08:27:17.756",
+    "Event_Name": "PAUSE",
+    "IsRejected": "0",
+    "EventIndex": 3551
+  },
+  {
+    "category": "PAUSE_Approved",
+    "patient_folder": "74239105",
+    "event_file": "PAUSE_Approved\\74239105\\event_74239105.json",
+    "Patient_IR_ID": "20C3D91D-2C7D-4C42-8754-52BF70E52099",
+    "EventOccuredTime": "2025-11-08 13:32:22.450",
+    "Event_Name": "PAUSE",
+    "IsRejected": "0",
+    "EventIndex": 4490
+  },
+  {
+    "category": "PAUSE_Approved",
+    "patient_folder": "74278804",
+    "event_file": "PAUSE_Approved\\74278804\\event_74278804.json",
+    "Patient_IR_ID": "58EDA676-8B5D-4E53-9282-1E9F78DE9AB6",
+    "EventOccuredTime": "2025-11-08 10:12:21.073",
+    "Event_Name": "PAUSE",
+    "IsRejected": "0",
+    "EventIndex": 4214
+  },
+  {
+    "category": "PAUSE_Approved",
+    "patient_folder": "74281481",
+    "event_file": "PAUSE_Approved\\74281481\\event_74281481.json",
+    "Patient_IR_ID": "6C7E08F8-2ED2-4ACF-BB23-A439525C6510",
+    "EventOccuredTime": "2025-11-08 18:38:22.620",
+    "Event_Name": "PAUSE",
+    "IsRejected": "0"
+  },
+  {
+    "category": "PAUSE_Approved",
+    "patient_folder": "74321426",
+    "event_file": "PAUSE_Approved\\74321426\\event_74321426.json",
+    "Patient_IR_ID": "51A56746-6CFA-4602-924F-3ED020E75C29",
+    "EventOccuredTime": "2025-11-08 12:03:15.422",
+    "Event_Name": "PAUSE",
+    "IsRejected": "0"
+  },
+  {
+    "category": "PAUSE_Approved",
+    "patient_folder": "74351080",
+    "event_file": "PAUSE_Approved\\74351080\\event_74351080.json",
+    "Patient_IR_ID": "FDCA3D0C-70C8-47A4-AEEC-AB8DEB2E2742",
+    "EventOccuredTime": "2025-11-08 20:45:18.442",
+    "Event_Name": "PAUSE",
+    "IsRejected": "0",
+    "EventIndex": 3688
+  },
+  {
+    "category": "PAUSE_Approved",
+    "patient_folder": "74422783",
+    "event_file": "PAUSE_Approved\\74422783\\event_74422783.json",
+    "Patient_IR_ID": "FF8F798F-1E83-471A-8EE8-F13018023EBA",
+    "EventOccuredTime": "2025-11-08 20:05:18.282",
+    "Event_Name": "PAUSE",
+    "IsRejected": "0"
+  },
+  {
+    "category": "PAUSE_Approved",
+    "patient_folder": "74464350",
+    "event_file": "PAUSE_Approved\\74464350\\event_74464350.json",
+    "Patient_IR_ID": "F9FB4A41-F21C-4915-84C1-FA12DBAFBF61",
+    "EventOccuredTime": "2025-11-08 19:38:12.936",
+    "Event_Name": "PAUSE",
+    "IsRejected": "0",
+    "EventIndex": 2587
+  },
+  {
+    "category": "PAUSE_Approved",
+    "patient_folder": "74482819",
+    "event_file": "PAUSE_Approved\\74482819\\event_74482819.json",
+    "Patient_IR_ID": "389418F9-D590-45D9-B2CD-2CF001FB86DE",
+    "EventOccuredTime": "2025-11-08 22:15:22.453",
+    "Event_Name": "PAUSE",
+    "IsRejected": "0",
+    "EventIndex": 4490
+  },
+  {
+    "category": "PAUSE_Approved",
+    "patient_folder": "74543593",
+    "event_file": "PAUSE_Approved\\74543593\\event_74543593.json",
+    "Patient_IR_ID": "169F25B2-5DFB-4206-A62B-A67F4721EF2A",
+    "EventOccuredTime": "2025-11-08 11:39:23.356",
+    "Event_Name": "PAUSE",
+    "IsRejected": "0",
+    "EventIndex": 4671
+  },
+  {
+    "category": "PAUSE_Approved",
+    "patient_folder": "74584770",
+    "event_file": "PAUSE_Approved\\74584770\\event_74584770.json",
+    "Patient_IR_ID": "C2B55CE5-D624-4A5D-8977-6E1C5881271F",
+    "EventOccuredTime": "2025-11-08 20:25:16.775",
+    "Event_Name": "PAUSE",
+    "IsRejected": "0",
+    "EventIndex": 3355
+  },
+  {
+    "category": "PAUSE_Approved",
+    "patient_folder": "74586758",
+    "event_file": "PAUSE_Approved\\74586758\\event_74586758.json",
+    "Patient_IR_ID": "98EF9E5A-C0C3-4F9F-9563-201D10FE37EF",
+    "EventOccuredTime": "2025-11-08 21:50:16.897",
+    "Event_Name": "PAUSE",
+    "IsRejected": "0",
+    "EventIndex": 3379
+  },
+  {
+    "category": "PAUSE_Approved",
+    "patient_folder": "74605868",
+    "event_file": "PAUSE_Approved\\74605868\\event_74605868.json",
+    "Patient_IR_ID": "17912C25-CEDA-484C-8ABC-A3BDA596645D",
+    "EventOccuredTime": "2025-11-08 20:43:24.218",
+    "Event_Name": "PAUSE",
+    "IsRejected": "0",
+    "EventIndex": 4843
+  },
+  {
+    "category": "PAUSE_Approved",
+    "patient_folder": "74642953",
+    "event_file": "PAUSE_Approved\\74642953\\event_74642953.json",
+    "Patient_IR_ID": "A5CFBA44-6698-41D6-9F74-60DF80617EB0",
+    "EventOccuredTime": "2025-11-08 21:22:14.383",
+    "Event_Name": "PAUSE",
+    "IsRejected": "0",
+    "EventIndex": 2876
+  },
+  {
+    "category": "PAUSE_Approved",
+    "patient_folder": "74677544",
+    "event_file": "PAUSE_Approved\\74677544\\event_74677544.json",
+    "Patient_IR_ID": "448CCA2F-A039-4829-B0EA-B31412813D29",
+    "EventOccuredTime": "2025-11-08 22:30:17.359",
+    "Event_Name": "PAUSE",
+    "IsRejected": "0",
+    "EventIndex": 3471
+  },
+  {
+    "category": "PAUSE_Approved",
+    "patient_folder": "74693432",
+    "event_file": "PAUSE_Approved\\74693432\\event_74693432.json",
+    "Patient_IR_ID": "76B5FA99-3641-4500-8594-87DB08A51517",
+    "EventOccuredTime": "2025-11-08 12:10:19.145",
+    "Event_Name": "PAUSE",
+    "IsRejected": "0",
+    "EventIndex": 3829
+  },
+  {
+    "category": "PAUSE_Approved",
+    "patient_folder": "74762823",
+    "event_file": "PAUSE_Approved\\74762823\\event_74762823.json",
+    "Patient_IR_ID": "8F0BE790-65D4-4EE6-993A-8CB964692FF2",
+    "EventOccuredTime": "2025-11-08 09:45:22.195",
+    "Event_Name": "PAUSE",
+    "IsRejected": "0",
+    "EventIndex": 4439
+  },
+  {
+    "category": "PAUSE_Approved",
+    "patient_folder": "74790042",
+    "event_file": "PAUSE_Approved\\74790042\\event_74790042.json",
+    "Patient_IR_ID": "B6BB8CF8-2725-45FB-B127-732926006B23",
+    "EventOccuredTime": "2025-11-08 20:24:24.581",
+    "Event_Name": "PAUSE",
+    "IsRejected": "0",
+    "EventIndex": 4916
+  },
+  {
+    "category": "PAUSE_Approved",
+    "patient_folder": "74791754",
+    "event_file": "PAUSE_Approved\\74791754\\event_74791754.json",
+    "Patient_IR_ID": "B842BAF0-BF34-4D10-AB78-8F646FBA3593",
+    "EventOccuredTime": "2025-11-08 08:45:12.905",
+    "Event_Name": "PAUSE",
+    "IsRejected": "0",
+    "EventIndex": 2581
+  },
+  {
+    "category": "PAUSE_Approved",
+    "patient_folder": "74860889",
+    "event_file": "PAUSE_Approved\\74860889\\event_74860889.json",
+    "Patient_IR_ID": "E475BE62-24FF-4E38-ADEC-BB6BA09C53D9",
+    "EventOccuredTime": "2025-11-08 08:49:11.036",
+    "Event_Name": "PAUSE",
+    "IsRejected": "0",
+    "EventIndex": 2207
+  },
+  {
+    "category": "PAUSE_Approved",
+    "patient_folder": "74894508",
+    "event_file": "PAUSE_Approved\\74894508\\event_74894508.json",
+    "Patient_IR_ID": "E599BBBF-9861-42B4-AC0A-8182FAC55AEA",
+    "EventOccuredTime": "2025-11-08 22:53:10.324",
+    "Event_Name": "PAUSE",
+    "IsRejected": "0",
+    "EventIndex": 2064
+  },
+  {
+    "category": "PAUSE_Approved",
+    "patient_folder": "74995849",
+    "event_file": "PAUSE_Approved\\74995849\\event_74995849.json",
+    "Patient_IR_ID": "DFD837D0-3741-4117-93B3-574A39437736",
+    "EventOccuredTime": "2025-11-08 08:13:14.283",
+    "Event_Name": "PAUSE",
+    "IsRejected": "0",
+    "EventIndex": 2856
+  },
+  {
+    "category": "PAUSE_Rejected",
+    "patient_folder": "74001891",
+    "event_file": "PAUSE_Rejected\\74001891\\event_74001891.json",
+    "Patient_IR_ID": "EB06E756-EA66-4ADC-8F8E-0FD9BEA9AC21",
+    "EventOccuredTime": "2025-11-08 14:32:14.018",
+    "Event_Name": "PAUSE",
+    "IsRejected": "1",
+    "EventIndex": 2803
+  },
+  {
+    "category": "PAUSE_Rejected",
+    "patient_folder": "74053991",
+    "event_file": "PAUSE_Rejected\\74053991\\event_74053991.json",
+    "Patient_IR_ID": "60983A0E-AF4D-48A0-852C-F40162A2FA9B",
+    "EventOccuredTime": "2025-11-08 19:57:21.197",
+    "Event_Name": "PAUSE",
+    "IsRejected": "1",
+    "EventIndex": 4239
+  },
+  {
+    "category": "PAUSE_Rejected",
+    "patient_folder": "74112757",
+    "event_file": "PAUSE_Rejected\\74112757\\event_74112757.json",
+    "Patient_IR_ID": "4E02E14A-21DB-41A2-9B5E-8A7AAE9F2439",
+    "EventOccuredTime": "2025-11-08 09:48:21.911",
+    "Event_Name": "PAUSE",
+    "IsRejected": "1",
+    "EventIndex": 4382
+  },
+  {
+    "category": "PAUSE_Rejected",
+    "patient_folder": "74141774",
+    "event_file": "PAUSE_Rejected\\74141774\\event_74141774.json",
+    "Patient_IR_ID": "8C15A8EF-D75C-4363-ADA2-926FB2B5A608",
+    "EventOccuredTime": "2025-11-08 11:16:19.525",
+    "Event_Name": "PAUSE",
+    "IsRejected": "1"
+  },
+  {
+    "category": "PAUSE_Rejected",
+    "patient_folder": "74166586",
+    "event_file": "PAUSE_Rejected\\74166586\\event_74166586.json",
+    "Patient_IR_ID": "00A37329-2E8B-4AA5-86E3-AEDF75814A6C",
+    "EventOccuredTime": "2025-11-08 21:31:19.079",
+    "Event_Name": "PAUSE",
+    "IsRejected": "1",
+    "EventIndex": 3815
+  },
+  {
+    "category": "PAUSE_Rejected",
+    "patient_folder": "74206219",
+    "event_file": "PAUSE_Rejected\\74206219\\event_74206219.json",
+    "Patient_IR_ID": "05D391A1-5E43-411D-AC38-3970BE22B94E",
+    "EventOccuredTime": "2025-11-08 16:19:24.261",
+    "Event_Name": "PAUSE",
+    "IsRejected": "1",
+    "EventIndex": 4852
+  },
+  {
+    "category": "PAUSE_Rejected",
+    "patient_folder": "74226668",
+    "event_file": "PAUSE_Rejected\\74226668\\event_74226668.json",
+    "Patient_IR_ID": "10A4BD34-34B3-49ED-B3B5-D5EBB731B35C",
+    "EventOccuredTime": "2025-11-08 08:56:21.908",
+    "Event_Name": "PAUSE",
+    "IsRejected": "1",
+    "EventIndex": 4381
+  },
+  {
+    "category": "PAUSE_Rejected",
+    "patient_folder": "74228166",
+    "event_file": "PAUSE_Rejected\\74228166\\event_74228166.json",
+    "Patient_IR_ID": "FA16BBD5-C586-454C-BDC4-A9FE2FAF25DF",
+    "EventOccuredTime": "2025-11-08 18:10:11.143",
+    "Event_Name": "PAUSE",
+    "IsRejected": "1",
+    "EventIndex": 2228
+  },
+  {
+    "category": "PAUSE_Rejected",
+    "patient_folder": "74259729",
+    "event_file": "PAUSE_Rejected\\74259729\\event_74259729.json",
+    "Patient_IR_ID": "43DF9A06-884B-4A86-BF1B-FCAA087D389E",
+    "EventOccuredTime": "2025-11-08 09:17:21.213",
+    "Event_Name": "PAUSE",
+    "IsRejected": "1",
+    "EventIndex": 4242
+  },
+  {
+    "category": "PAUSE_Rejected",
+    "patient_folder": "74261386",
+    "event_file": "PAUSE_Rejected\\74261386\\event_74261386.json",
+    "Patient_IR_ID": "E7E28661-6E79-4E72-9236-89C11DF58342",
+    "EventOccuredTime": "2025-11-08 13:17:21.671",
+    "Event_Name": "PAUSE",
+    "IsRejected": "1",
+    "EventIndex": 4334
+  },
+  {
+    "category": "PAUSE_Rejected",
+    "patient_folder": "74332292",
+    "event_file": "PAUSE_Rejected\\74332292\\event_74332292.json",
+    "Patient_IR_ID": "55D59E40-C66C-4EB8-8044-5E715781726D",
+    "EventOccuredTime": "2025-11-08 21:40:10.314",
+    "Event_Name": "PAUSE",
+    "IsRejected": "1",
+    "EventIndex": 2062
+  },
+  {
+    "category": "PAUSE_Rejected",
+    "patient_folder": "74514093",
+    "event_file": "PAUSE_Rejected\\74514093\\event_74514093.json",
+    "Patient_IR_ID": "D8E4FCEF-7E87-42CD-B262-A261AD8A7335",
+    "EventOccuredTime": "2025-11-08 10:58:15.036",
+    "Event_Name": "PAUSE",
+    "IsRejected": "1"
+  },
+  {
+    "category": "PAUSE_Rejected",
+    "patient_folder": "74515078",
+    "event_file": "PAUSE_Rejected\\74515078\\event_74515078.json",
+    "Patient_IR_ID": "2FA803CD-327E-4876-B391-99F1A7379D63",
+    "EventOccuredTime": "2025-11-08 14:37:20.341",
+    "Event_Name": "PAUSE",
+    "IsRejected": "1",
+    "EventIndex": 4068
+  },
+  {
+    "category": "PAUSE_Rejected",
+    "patient_folder": "74553524",
+    "event_file": "PAUSE_Rejected\\74553524\\event_74553524.json",
+    "Patient_IR_ID": "B873C405-99C7-42D6-A9F8-7F4CBE1E8208",
+    "EventOccuredTime": "2025-11-08 17:56:22.427",
+    "Event_Name": "PAUSE",
+    "IsRejected": "1",
+    "EventIndex": 4485
+  },
+  {
+    "category": "PAUSE_Rejected",
+    "patient_folder": "74614905",
+    "event_file": "PAUSE_Rejected\\74614905\\event_74614905.json",
+    "Patient_IR_ID": "96C69418-1A2B-4541-B7F7-E5E73D919431",
+    "EventOccuredTime": "2025-11-08 10:47:15.898",
+    "Event_Name": "PAUSE",
+    "IsRejected": "1",
+    "EventIndex": 3179
+  },
+  {
+    "category": "PAUSE_Rejected",
+    "patient_folder": "74650001",
+    "event_file": "PAUSE_Rejected\\74650001\\event_74650001.json",
+    "Patient_IR_ID": "023C3512-2B2A-4E27-B797-9A4C3EA53BB5",
+    "EventOccuredTime": "2025-11-08 12:52:24.784",
+    "Event_Name": "PAUSE",
+    "IsRejected": "1"
+  },
+  {
+    "category": "PAUSE_Rejected",
+    "patient_folder": "74684892",
+    "event_file": "PAUSE_Rejected\\74684892\\event_74684892.json",
+    "Patient_IR_ID": "9B236E00-CE1D-4217-BBE6-87D379BADDEE",
+    "EventOccuredTime": "2025-11-08 19:30:17.849",
+    "Event_Name": "PAUSE",
+    "IsRejected": "1",
+    "EventIndex": 3569
+  },
+  {
+    "category": "PAUSE_Rejected",
+    "patient_folder": "74709567",
+    "event_file": "PAUSE_Rejected\\74709567\\event_74709567.json",
+    "Patient_IR_ID": "90F92166-E8B6-4FCA-814C-6E7A86FE845A",
+    "EventOccuredTime": "2025-11-08 15:38:20.890",
+    "Event_Name": "PAUSE",
+    "IsRejected": "1",
+    "EventIndex": 4178
+  },
+  {
+    "category": "PAUSE_Rejected",
+    "patient_folder": "74737052",
+    "event_file": "PAUSE_Rejected\\74737052\\event_74737052.json",
+    "Patient_IR_ID": "C0D1AE7A-66BB-481A-8D14-39AA64EBF5F7",
+    "EventOccuredTime": "2025-11-08 18:45:19.847",
+    "Event_Name": "PAUSE",
+    "IsRejected": "1",
+    "EventIndex": 3969
+  },
+  {
+    "category": "PAUSE_Rejected",
+    "patient_folder": "74802906",
+    "event_file": "PAUSE_Rejected\\74802906\\event_74802906.json",
+    "Patient_IR_ID": "A0DE67EC-13EA-4FD3-9689-134336AAECBA",
+    "EventOccuredTime": "2025-11-08 22:32:19.797",
+    "Event_Name": "PAUSE",
+    "IsRejected": "1",
+    "EventIndex": 3959
+  },
+  {
+    "category": "PAUSE_Rejected",
+    "patient_folder": "74803102",
+    "event_file": "PAUSE_Rejected\\74803102\\event_74803102.json",
+    "Patient_IR_ID": "E01BD046-820D-4F02-8F7A-7B1624376E1E",
+    "EventOccuredTime": "2025-11-08 20:48:18.279",
+    "Event_Name": "PAUSE",
+    "IsRejected": "1",
+    "EventIndex": 3655
+  },
+  {
+    "category": "PAUSE_Rejected",
+    "patient_folder": "74818892",
+    "event_file": "PAUSE_Rejected\\74818892\\event_74818892.json",
+    "Patient_IR_ID": "745E3602-0C1C-4178-A1E9-776CC9FBF972",
+    "EventOccuredTime": "2025-11-08 09:24:14.989",
+    "Event_Name": "PAUSE",
+    "IsRejected": "1",
+    "EventIndex": 2997
+  },
+  {
+    "category": "PAUSE_Rejected",
+    "patient_folder": "74830618",
+    "event_file": "PAUSE_Rejected\\74830618\\event_74830618.json",
+    "Patient_IR_ID": "D70AFA67-E0D5-4875-B678-6F66B56A9B58",
+    "EventOccuredTime": "2025-11-08 14:49:23.111",
+    "Event_Name": "PAUSE",
+    "IsRejected": "1",
+    "EventIndex": 4622
+  },
+  {
+    "category": "VTACH_Approved",
+    "patient_folder": "74011152",
+    "event_file": "VTACH_Approved\\74011152\\event_74011152.json",
+    "Patient_IR_ID": "B7431EAE-826E-4E10-AA56-5594D26D7105",
+    "EventOccuredTime": "2025-11-08 20:02:18.122",
+    "Event_Name": "VTACH",
+    "IsRejected": "0",
+    "EventIndex": 3624
+  },
+  {
+    "category": "VTACH_Approved",
+    "patient_folder": "74039199",
+    "event_file": "VTACH_Approved\\74039199\\event_74039199.json",
+    "Patient_IR_ID": "091095FB-4B06-4BAD-9149-A723F4C7DA6B",
+    "EventOccuredTime": "2025-11-08 14:49:22.450",
+    "Event_Name": "VTACH",
+    "IsRejected": "0",
+    "EventIndex": 4490
+  },
+  {
+    "category": "VTACH_Approved",
+    "patient_folder": "74233316",
+    "event_file": "VTACH_Approved\\74233316\\event_74233316.json",
+    "Patient_IR_ID": "62715E02-F9C4-4E2C-888B-AEC898BE68AB",
+    "EventOccuredTime": "2025-11-08 15:26:18.373",
+    "Event_Name": "VTACH",
+    "IsRejected": "0",
+    "EventIndex": 3674
+  },
+  {
+    "category": "VTACH_Approved",
+    "patient_folder": "74400464",
+    "event_file": "VTACH_Approved\\74400464\\event_74400464.json",
+    "Patient_IR_ID": "2FA4BACD-8CEC-4C95-85C6-6A756DDF6703",
+    "EventOccuredTime": "2025-11-08 10:30:16.547",
+    "Event_Name": "VTACH",
+    "IsRejected": "0",
+    "EventIndex": 3309
+  },
+  {
+    "category": "VTACH_Approved",
+    "patient_folder": "74468211",
+    "event_file": "VTACH_Approved\\74468211\\event_74468211.json",
+    "Patient_IR_ID": "E2329875-ABE5-4D79-96BF-381780EE3CAB",
+    "EventOccuredTime": "2025-11-08 19:54:15.754",
+    "Event_Name": "VTACH",
+    "IsRejected": "0",
+    "EventIndex": 3150
+  },
+  {
+    "category": "VTACH_Approved",
+    "patient_folder": "74472273",
+    "event_file": "VTACH_Approved\\74472273\\event_74472273.json",
+    "Patient_IR_ID": "30FA545A-BFDD-41EF-BF28-FF20874AB215",
+    "EventOccuredTime": "2025-11-08 19:15:13.690",
+    "Event_Name": "VTACH",
+    "IsRejected": "0"
+  },
+  {
+    "category": "VTACH_Approved",
+    "patient_folder": "74505416",
+    "event_file": "VTACH_Approved\\74505416\\event_74505416.json",
+    "Patient_IR_ID": "F709F98F-ECC6-4A43-9220-8D6C9B6C80B1",
+    "EventOccuredTime": "2025-11-08 10:09:21.582",
+    "Event_Name": "VTACH",
+    "IsRejected": "0",
+    "EventIndex": 4316
+  },
+  {
+    "category": "VTACH_Approved",
+    "patient_folder": "74516650",
+    "event_file": "VTACH_Approved\\74516650\\event_74516650.json",
+    "Patient_IR_ID": "1369C159-C672-4A20-96ED-7583C53E98A7",
+    "EventOccuredTime": "2025-11-08 14:36:10.496",
+    "Event_Name": "VTACH",
+    "IsRejected": "0",
+    "EventIndex": 2099
+  },
+  {
+    "category": "VTACH_Approved",
+    "patient_folder": "74548356",
+    "event_file": "VTACH_Approved\\74548356\\event_74548356.json",
+    "Patient_IR_ID": "204E9D97-9D03-454D-8683-EA07ACEA39BF",
+    "EventOccuredTime": "2025-11-08 13:34:22.594",
+    "Event_Name": "VTACH",
+    "IsRejected": "0",
+    "EventIndex": 4518
+  },
+  {
+    "category": "VTACH_Approved",
+    "patient_folder": "74572179",
+    "event_file": "VTACH_Approved\\74572179\\event_74572179.json",
+    "Patient_IR_ID": "0A1E9498-95FC-4AA4-A244-4EFA83733330",
+    "EventOccuredTime": "2025-11-08 10:10:23.093",
+    "Event_Name": "VTACH",
+    "IsRejected": "0",
+    "EventIndex": 4618
+  },
+  {
+    "category": "VTACH_Approved",
+    "patient_folder": "74583720",
+    "event_file": "VTACH_Approved\\74583720\\event_74583720.json",
+    "Patient_IR_ID": "77E98CDC-A900-4F4E-BCFA-35766E7EF6EC",
+    "EventOccuredTime": "2025-11-08 12:58:14.038",
+    "Event_Name": "VTACH",
+    "IsRejected": "0",
+    "EventIndex": 2807
+  },
+  {
+    "category": "VTACH_Approved",
+    "patient_folder": "74598139",
+    "event_file": "VTACH_Approved\\74598139\\event_74598139.json",
+    "Patient_IR_ID": "77445F67-FF51-4830-8A82-BAA6BACFE258",
+    "EventOccuredTime": "2025-11-08 08:18:15.846",
+    "Event_Name": "VTACH",
+    "IsRejected": "0"
+  },
+  {
+    "category": "VTACH_Approved",
+    "patient_folder": "74616032",
+    "event_file": "VTACH_Approved\\74616032\\event_74616032.json",
+    "Patient_IR_ID": "B4B94B59-2DF6-4FBD-A812-32DB866724E4",
+    "EventOccuredTime": "2025-11-08 17:13:12.251",
+    "Event_Name": "VTACH",
+    "IsRejected": "0",
+    "EventIndex": 2450
+  },
+  {
+    "category": "VTACH_Approved",
+    "patient_folder": "74644181",
+    "event_file": "VTACH_Approved\\74644181\\event_74644181.json",
+    "Patient_IR_ID": "D7BE1FDE-F8C2-4C7F-B6CF-EEE6F083C37A",
+    "EventOccuredTime": "2025-11-08 17:07:18.817",
+    "Event_Name": "VTACH",
+    "IsRejected": "0",
+    "EventIndex": 3763
+  },
+  {
+    "category": "VTACH_Approved",
+    "patient_folder": "74670463",
+    "event_file": "VTACH_Approved\\74670463\\event_74670463.json",
+    "Patient_IR_ID": "0DD89534-7A64-4D98-90B7-2F47DC804362",
+    "EventOccuredTime": "2025-11-08 11:55:14.315",
+    "Event_Name": "VTACH",
+    "IsRejected": "0",
+    "EventIndex": 2863
+  },
+  {
+    "category": "VTACH_Approved",
+    "patient_folder": "74673320",
+    "event_file": "VTACH_Approved\\74673320\\event_74673320.json",
+    "Patient_IR_ID": "4B080038-720B-4F94-B23A-B7734EE64E42",
+    "EventOccuredTime": "2025-11-08 11:06:20.473",
+    "Event_Name": "VTACH",
+    "IsRejected": "0",
+    "EventIndex": 4094
+  },
+  {
+    "category": "VTACH_Approved",
+    "patient_folder": "74683098",
+    "event_file": "VTACH_Approved\\74683098\\event_74683098.json",
+    "Patient_IR_ID": "E362CE09-829A-4006-A5CB-1FB087311302",
+    "EventOccuredTime": "2025-11-08 18:27:13.501",
+    "Event_Name": "VTACH",
+    "IsRejected": "0",
+    "EventIndex": 2700
+  },
+  {
+    "category": "VTACH_Approved",
+    "patient_folder": "74726416",
+    "event_file": "VTACH_Approved\\74726416\\event_74726416.json",
+    "Patient_IR_ID": "B677C5AD-24CE-4AF4-8614-1C9B6F729677",
+    "EventOccuredTime": "2025-11-08 18:34:16.140",
+    "Event_Name": "VTACH",
+    "IsRejected": "0",
+    "EventIndex": 3228
+  },
+  {
+    "category": "VTACH_Approved",
+    "patient_folder": "74732021",
+    "event_file": "VTACH_Approved\\74732021\\event_74732021.json",
+    "Patient_IR_ID": "0FF5B92B-590A-435C-BBD7-75BBC4E58CCD",
+    "EventOccuredTime": "2025-11-08 11:50:22.515",
+    "Event_Name": "VTACH",
+    "IsRejected": "0",
+    "EventIndex": 4503
+  },
+  {
+    "category": "VTACH_Approved",
+    "patient_folder": "74931174",
+    "event_file": "VTACH_Approved\\74931174\\event_74931174.json",
+    "Patient_IR_ID": "CA4FB763-27AE-4BBC-8A65-937234DBE4CC",
+    "EventOccuredTime": "2025-11-08 10:57:21.076",
+    "Event_Name": "VTACH",
+    "IsRejected": "0",
+    "EventIndex": 4215
+  },
+  {
+    "category": "VTACH_Approved",
+    "patient_folder": "74936591",
+    "event_file": "VTACH_Approved\\74936591\\event_74936591.json",
+    "Patient_IR_ID": "CB560AD2-7E3D-42A8-AC91-7E427DFDFD49",
+    "EventOccuredTime": "2025-11-08 09:47:20.277",
+    "Event_Name": "VTACH",
+    "IsRejected": "0",
+    "EventIndex": 4055
+  },
+  {
+    "category": "VTACH_Approved",
+    "patient_folder": "74947977",
+    "event_file": "VTACH_Approved\\74947977\\event_74947977.json",
+    "Patient_IR_ID": "1E2344B8-81A4-41FA-88FB-A20BE3A94A2F",
+    "EventOccuredTime": "2025-11-08 18:57:16.208",
+    "Event_Name": "VTACH",
+    "IsRejected": "0",
+    "EventIndex": 3241
+  },
+  {
+    "category": "VTACH_Approved",
+    "patient_folder": "74982531",
+    "event_file": "VTACH_Approved\\74982531\\event_74982531.json",
+    "Patient_IR_ID": "CD417B8B-6E7F-4DAA-9554-CC2DDA877F5B",
+    "EventOccuredTime": "2025-11-08 17:58:21.205",
+    "Event_Name": "VTACH",
+    "IsRejected": "0"
+  },
+  {
+    "category": "VTACH_Rejected",
+    "patient_folder": "74023976",
+    "event_file": "VTACH_Rejected\\74023976\\event_74023976.json",
+    "Patient_IR_ID": "B58C80F5-0710-4912-AFA3-C7158042C56C",
+    "EventOccuredTime": "2025-11-08 12:01:25.404",
+    "Event_Name": "VTACH",
+    "IsRejected": "1"
+  },
+  {
+    "category": "VTACH_Rejected",
+    "patient_folder": "74046486",
+    "event_file": "VTACH_Rejected\\74046486\\event_74046486.json",
+    "Patient_IR_ID": "825874EC-D131-4268-BCC1-057A02730D5A",
+    "EventOccuredTime": "2025-11-08 20:59:11.446",
+    "Event_Name": "VTACH",
+    "IsRejected": "1",
+    "EventIndex": 2289
+  },
+  {
+    "category": "VTACH_Rejected",
+    "patient_folder": "74047409",
+    "event_file": "VTACH_Rejected\\74047409\\event_74047409.json",
+    "Patient_IR_ID": "89C27E1E-0CCE-45E9-BE1D-BCDE561D0052",
+    "EventOccuredTime": "2025-11-08 10:42:10.008",
+    "Event_Name": "VTACH",
+    "IsRejected": "1",
+    "EventIndex": 2001
+  },
+  {
+    "category": "VTACH_Rejected",
+    "patient_folder": "74097071",
+    "event_file": "VTACH_Rejected\\74097071\\event_74097071.json",
+    "Patient_IR_ID": "F326C548-9E78-453F-BAC7-4A50FB3D78E4",
+    "EventOccuredTime": "2025-11-08 14:06:12.141",
+    "Event_Name": "VTACH",
+    "IsRejected": "1",
+    "EventIndex": 2428
+  },
+  {
+    "category": "VTACH_Rejected",
+    "patient_folder": "74112650",
+    "event_file": "VTACH_Rejected\\74112650\\event_74112650.json",
+    "Patient_IR_ID": "9B8F34AF-1DA3-4B09-A1D3-D42E271FFBCF",
+    "EventOccuredTime": "2025-11-08 15:11:14.826",
+    "Event_Name": "VTACH",
+    "IsRejected": "1",
+    "EventIndex": 2965
+  },
+  {
+    "category": "VTACH_Rejected",
+    "patient_folder": "74141967",
+    "event_file": "VTACH_Rejected\\74141967\\event_74141967.json",
+    "Patient_IR_ID": "867516CE-93F0-4840-AA90-2FD3884FB0B4",
+    "EventOccuredTime": "2025-11-08 14:04:13.296",
+    "Event_Name": "VTACH",
+    "IsRejected": "1"
+  },
+  {
+    "category": "VTACH_Rejected",
+    "patient_folder": "74187939",
+    "event_file": "VTACH_Rejected\\74187939\\event_74187939.json",
+    "Patient_IR_ID": "4996CF83-6419-4C8F-8F3E-FD8D4ACAC893",
+    "EventOccuredTime": "2025-11-08 16:26:21.985",
+    "Event_Name": "VTACH",
+    "IsRejected": "1",
+    "EventIndex": 4397
+  },
+  {
+    "category": "VTACH_Rejected",
+    "patient_folder": "74189503",
+    "event_file": "VTACH_Rejected\\74189503\\event_74189503.json",
+    "Patient_IR_ID": "38DC3B59-9203-4BDF-8055-D5898078F80F",
+    "EventOccuredTime": "2025-11-08 14:08:16.251",
+    "Event_Name": "VTACH",
+    "IsRejected": "1",
+    "EventIndex": 3250
+  },
+  {
+    "category": "VTACH_Rejected",
+    "patient_folder": "74220472",
+    "event_file": "VTACH_Rejected\\74220472\\event_74220472.json",
+    "Patient_IR_ID": "15B496E3-CAB2-42E4-A9C0-4339D02A4EC4",
+    "EventOccuredTime": "2025-11-08 09:12:20.284",
+    "Event_Name": "VTACH",
+    "IsRejected": "1",
+    "EventIndex": 4056
+  },
+  {
+    "category": "VTACH_Rejected",
+    "patient_folder": "74231396",
+    "event_file": "VTACH_Rejected\\74231396\\event_74231396.json",
+    "Patient_IR_ID": "70B7C4BC-CDA0-4812-ADE6-AF9761E32E72",
+    "EventOccuredTime": "2025-11-08 09:13:17.833",
+    "Event_Name": "VTACH",
+    "IsRejected": "1",
+    "EventIndex": 3566
+  },
+  {
+    "category": "VTACH_Rejected",
+    "patient_folder": "74419263",
+    "event_file": "VTACH_Rejected\\74419263\\event_74419263.json",
+    "Patient_IR_ID": "6ED256B6-552D-4D3F-9F86-CBDC4AB13064",
+    "EventOccuredTime": "2025-11-08 19:06:19.935",
+    "Event_Name": "VTACH",
+    "IsRejected": "1",
+    "EventIndex": 3987
+  },
+  {
+    "category": "VTACH_Rejected",
+    "patient_folder": "74441996",
+    "event_file": "VTACH_Rejected\\74441996\\event_74441996.json",
+    "Patient_IR_ID": "DD757079-8943-4C3A-A760-05C9372335A9",
+    "EventOccuredTime": "2025-11-08 13:12:20.954",
+    "Event_Name": "VTACH",
+    "IsRejected": "1",
+    "EventIndex": 4190
+  },
+  {
+    "category": "VTACH_Rejected",
+    "patient_folder": "74455996",
+    "event_file": "VTACH_Rejected\\74455996\\event_74455996.json",
+    "Patient_IR_ID": "A818DC0C-64EC-4CE9-B555-09AC57B884B2",
+    "EventOccuredTime": "2025-11-08 21:29:13.808",
+    "Event_Name": "VTACH",
+    "IsRejected": "1",
+    "EventIndex": 2761
+  },
+  {
+    "category": "VTACH_Rejected",
+    "patient_folder": "74475673",
+    "event_file": "VTACH_Rejected\\74475673\\event_74475673.json",
+    "Patient_IR_ID": "A32E5C93-DD8B-49E3-BD09-943BE5DF99BF",
+    "EventOccuredTime": "2025-11-08 14:51:18.768",
+    "Event_Name": "VTACH",
+    "IsRejected": "1"
+  },
+  {
+    "category": "VTACH_Rejected",
+    "patient_folder": "74547910",
+    "event_file": "VTACH_Rejected\\74547910\\event_74547910.json",
+    "Patient_IR_ID": "FC8BAEAB-6C8B-46E6-AB60-A16F368037FC",
+    "EventOccuredTime": "2025-11-08 10:15:14.300",
+    "Event_Name": "VTACH",
+    "IsRejected": "1",
+    "EventIndex": 2860
+  },
+  {
+    "category": "VTACH_Rejected",
+    "patient_folder": "74587919",
+    "event_file": "VTACH_Rejected\\74587919\\event_74587919.json",
+    "Patient_IR_ID": "73029840-CC6F-4F9A-AE43-A2B16F91BC93",
+    "EventOccuredTime": "2025-11-08 16:48:17.641",
+    "Event_Name": "VTACH",
+    "IsRejected": "1",
+    "EventIndex": 3528
+  },
+  {
+    "category": "VTACH_Rejected",
+    "patient_folder": "74630025",
+    "event_file": "VTACH_Rejected\\74630025\\event_74630025.json",
+    "Patient_IR_ID": "33E6CFFA-6530-4AF3-BF3F-610CA0DC5000",
+    "EventOccuredTime": "2025-11-08 18:26:10.297",
+    "Event_Name": "VTACH",
+    "IsRejected": "1",
+    "EventIndex": 2059
+  },
+  {
+    "category": "VTACH_Rejected",
+    "patient_folder": "74671240",
+    "event_file": "VTACH_Rejected\\74671240\\event_74671240.json",
+    "Patient_IR_ID": "F69C8AE7-CBCD-4CAA-992C-DD2C14EFFA49",
+    "EventOccuredTime": "2025-11-08 15:48:20.544",
+    "Event_Name": "VTACH",
+    "IsRejected": "1",
+    "EventIndex": 4108
+  },
+  {
+    "category": "VTACH_Rejected",
+    "patient_folder": "74682903",
+    "event_file": "VTACH_Rejected\\74682903\\event_74682903.json",
+    "Patient_IR_ID": "824F765D-AFE4-427D-8A32-289AE12A30F1",
+    "EventOccuredTime": "2025-11-08 18:38:20.448",
+    "Event_Name": "VTACH",
+    "IsRejected": "1",
+    "EventIndex": 4089
+  },
+  {
+    "category": "VTACH_Rejected",
+    "patient_folder": "74692877",
+    "event_file": "VTACH_Rejected\\74692877\\event_74692877.json",
+    "Patient_IR_ID": "A6FBFFC7-ADDB-425A-8400-3676C75F45EB",
+    "EventOccuredTime": "2025-11-08 08:38:11.861",
+    "Event_Name": "VTACH",
+    "IsRejected": "1",
+    "EventIndex": 2372
+  },
+  {
+    "category": "VTACH_Rejected",
+    "patient_folder": "74753037",
+    "event_file": "VTACH_Rejected\\74753037\\event_74753037.json",
+    "Patient_IR_ID": "5B7D5C0F-3546-43CF-8240-6326C58CBC3E",
+    "EventOccuredTime": "2025-11-08 22:07:12.438",
+    "Event_Name": "VTACH",
+    "IsRejected": "1",
+    "EventIndex": 2487
+  },
+  {
+    "category": "VTACH_Rejected",
+    "patient_folder": "74923715",
+    "event_file": "VTACH_Rejected\\74923715\\event_74923715.json",
+    "Patient_IR_ID": "27569C3A-6898-4333-B3CE-D96C5329C298",
+    "EventOccuredTime": "2025-11-08 08:53:23.077",
+    "Event_Name": "VTACH",
+    "IsRejected": "1",
+    "EventIndex": 4615
+  },
+  {
+    "category": "VTACH_Rejected",
+    "patient_folder": "74976125",
+    "event_file": "VTACH_Rejected\\74976125\\event_74976125.json",
+    "Patient_IR_ID": "9B8F7104-8532-4143-9D3C-C727CD4B0E30",
+    "EventOccuredTime": "2025-11-08 13:27:14.131",
+    "Event_Name": "VTACH",
+    "IsRejected": "1",
+    "EventIndex": 2826
+  }
+]
